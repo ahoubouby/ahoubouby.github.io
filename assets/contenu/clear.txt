@@ -1,0 +1,2 @@
+<span id="a">[ahoubouby@192.30.255.113]</span>:<span id="c">~</span> cd ahoubouby
+<span id="a">[ahoubouby@192.30.255.113]</span>:<span id="c">ahoubouby</span>

@@ -1,0 +1,46 @@
+body {
+    background-color: #404253;
+    font-size: 1.05em
+}
+
+#console {
+	font-family: courier, monospace;
+	color: #fff;
+	width:850px;
+	margin:100px;
+	font-size: 1.15em;
+}
+#info{
+    color: #fff;
+}
+a {
+    color: #ddff00;
+	text-decoration: none;
+}
+
+#a {
+    color:#0f0;
+    font-weight : 800;
+}
+
+#c {
+	color: #0f0;
+}
+
+#b {
+    color: #ddff00;
+}
+
+#k {
+    	animation: change 1s;
+}
+
+#op{
+    	color: #888888
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}
