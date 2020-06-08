@@ -1,13 +1,16 @@
 <span id="a">[ahoubouby@192.30.255.113]</span>:<span id="c">ahoubouby</span> cd About_me
 <span id="a">[ahoubouby@192.30.255.113]</span>:<span id="c">ahoubouby/About_me</span> cat <!-- -->index.txt
-<p>My name HOUBOUBY Abdelwahed  OR just AHoubouby a Moroccan developer, Problem solver, Programmer Enthusiast by day Java Spring framework and Angular developer by night  a Passionate distributed systems, Scala, JavaScript, Golang, K8S, and Docker lover.
-Certificate in Scala & Akka professionals and k8s certificate loading.</p><p>
+<p>my name is HOUBOUBY Abdelwahed or simply AHoubouby. A morrocan developer.
+programming enthusiast by day namely Java Spring framework and Angular. but by night i turn my passion to  distributed systems, Scala, JavaScript, Golang, K8S, and Docker.
+Certified in Scala & Akka professionals.
+k8s certificate is loading.</p><p>
 ----- skills -----
-Work on differents stacks but always my heart belong to Scala (Akka, Play framework),  ReactJS and distributed systems.</br>
+Worked with different stacks but my heart still belongs to Scala (Akka, Play framework),  ReactJS and distributed systems.
+
 ---- Education -----
-Education: Master degree in CS but when its come to CS education not matter what count is passion and loving what you doing.
+Master degree in CS except that when it comes to CS education doesnt really play a huge factor. What counts is your passion, loving what you are doing while giving 100% of what you can provide.
 </p>
-My favorite code quote, "<span id="k">Stick to the plan stay focused and trust the process</span>".
+My motto, "<span id="k">Stick to the plan stay focused and trust the process</span>".
 <p>Cheers!</p>
 
 <span id="a">[ahoubouby@192.30.255.113]</span>:<span id="c">ahoubouby/About_me</span>
